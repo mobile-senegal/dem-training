@@ -27,4 +27,5 @@ The following students proudly finished the training:
  * [Student](mailto:student@example.com)
  * [Mansour Fall](http://mansourfall.github.io)
  * [Mouhamadou Dieng](https://github.com/mouha27/mouha27.github.io)
+ * [Léonie Ndoye](http://leonieNd.github.io)
  
