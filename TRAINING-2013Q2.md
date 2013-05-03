@@ -25,3 +25,5 @@ The following students proudly finished the training:
 
  * [Student1](http://url)
  * [Student](mailto:student@example.com)
+ * [Mansour Fall](http://mansourfall.github.io)
+ 
