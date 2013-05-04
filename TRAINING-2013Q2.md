@@ -28,3 +28,4 @@ The following students proudly finished the training:
  * [Mansour Fall](http://mansourfall.github.io)
  * [Mouhamadou Dieng](https://github.com/mouha27/mouha27.github.io)
  * [Roger Mbaye](https://github.com/rombaii/rombaii.github.io)
+ * [Léonie Ndoye](http://leonieNd.github.io)
