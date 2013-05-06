@@ -31,3 +31,4 @@ The following students proudly finished the training:
  * [Léonie Ndoye](http://leonieNd.github.io)
  * [Samba Ndiaye](https://github.com/ndiayesa/ndiayesa.github.io)
  * [Ben Ahmed SAMBOU] (https://benahmed.github.io)
+ * [SOUANE Amadou ] (https://github.com/Amsoua) 
